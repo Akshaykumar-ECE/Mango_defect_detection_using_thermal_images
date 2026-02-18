@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+runs/
+*.pt
+*.csv
+*.zip
+Mango_1800_agu.v1i.coco/
+mango_seg_dataset/
